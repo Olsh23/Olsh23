@@ -4,6 +4,7 @@
 
 Название | Описание | Инструменты 
 --- | --- | --- 
+[customer_churn_forecast](https://github.com/Olsh23/customer_churn_forecast) | Отток клиентов. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. | class_weight, upsampling, downsampling, numpy, pandas, sklearn (OneHotEncoder, StandardScaler; LogisticRegression, DecisionTreeClassifier, RandomForestClassifier)
 [recommendation_of_tariffs](https://github.com/Olsh23/recommendation_of_tariffs) | Рекомендация тарифов. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. | pandas, sklearn, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier
 [research_scooter_rental_service](https://github.com/Olsh23/research_scooter_rental_service) | Исследование сервиса аренды самокатов. Необходимо проанализировать данные и проверить некоторые гипотезы, которые могут помочь бизнесу вырасти. | math, numpy, pandas, matplotlib, scipy, seaborn
 [research_of_data_russian_film_distribution](https://github.com/Olsh23/research_of_data_russian_film_distribution) | Исследование данных о российском кинопрокате. Задача - изучить рынок российского кинопроката и выявить текущие тренды, уделить внимание фильмам, которые получили государственную поддержку. Ответить на вопрос, насколько такие фильмы интересны зрителю. | pandas, matplotlib, missingno
