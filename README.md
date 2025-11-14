@@ -4,6 +4,7 @@
 
 Название | Описание | Инструменты 
 --- | --- | --- 
+[forecasting_customer_churn_hotel](https://github.com/Olsh23/forecasting_customer_churn_hotel) | Прогнозирование оттока клиентов в сети отелей. Нужно разработать систему, которая предсказывает отказ от брони. | бизнес-метрики, phik, pandas, matplotlib, sklearn
 [choice_locations_borehole](https://github.com/Olsh23/choice_locations_borehole) | Выбор локации для скважины. Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализировать возможную прибыль и риски техникой *Bootstrap*. | метод повторной выборки, бизнес аналитика, pandas, matplotlib, sklearn
 [customer_churn_forecast](https://github.com/Olsh23/customer_churn_forecast) | Отток клиентов. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. | class_weight, upsampling, downsampling, numpy, pandas, sklearn (OneHotEncoder, StandardScaler; LogisticRegression, DecisionTreeClassifier, RandomForestClassifier)
 [recommendation_of_tariffs](https://github.com/Olsh23/recommendation_of_tariffs) | Рекомендация тарифов. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. | pandas, sklearn, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier
