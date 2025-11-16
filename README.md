@@ -4,6 +4,7 @@
 
 Название | Описание | Инструменты 
 --- | --- | --- 
+[cost_determination_cars](https://github.com/Olsh23/cost_determination_cars) | Определение стоимости автомобилей. Нужно построить модель для определения стоимости. | LGBMRegressor, pandas, matplotlib, sklearn
 [forecasting_customer_churn_hotel](https://github.com/Olsh23/forecasting_customer_churn_hotel) | Прогнозирование оттока клиентов в сети отелей. Нужно разработать систему, которая предсказывает отказ от брони. | бизнес-метрики, phik, pandas, matplotlib, sklearn
 [choice_locations_borehole](https://github.com/Olsh23/choice_locations_borehole) | Выбор локации для скважины. Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализировать возможную прибыль и риски техникой *Bootstrap*. | метод повторной выборки, бизнес аналитика, pandas, matplotlib, sklearn
 [customer_churn_forecast](https://github.com/Olsh23/customer_churn_forecast) | Отток клиентов. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. | class_weight, upsampling, downsampling, numpy, pandas, sklearn (OneHotEncoder, StandardScaler; LogisticRegression, DecisionTreeClassifier, RandomForestClassifier)
