@@ -4,6 +4,7 @@
 
 Название | Описание | Инструменты 
 --- | --- | --- 
+[forecast_customer_churn_telecom](https://github.com/Olsh23/forecast_customer_churn_telecom) | Прогнозирование оттока клиентов. Нужна модель, которая будет предсказывать, разорвёт ли абонент договор. | pandas, scipy, sqlite3, re, matplotlib, phik, sklearn, catboost, torch
 [identify_age_buyers_photo](https://github.com/Olsh23/identify_age_buyers_photo) | Определение возраста покупателей. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. | tensorflow.keras, pandas, matplotlib
 [toxic_comments](https://github.com/Olsh23/toxic_comments) | Определить токсичные комментарии. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. | nltk, scipy, re, pandas, matplotlib, sklearn
 [forecasting_taxi_orders](https://github.com/Olsh23/forecasting_taxi_orders) | Прогнозирование заказов такси (временные ряды). Нужно спрогнозировать количество заказов такси на следующий час. | statsmodels, pandas, matplotlib, sklearn, lightgbm
