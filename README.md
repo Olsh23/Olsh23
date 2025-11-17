@@ -4,6 +4,7 @@
 
 Название | Описание | Инструменты 
 --- | --- | --- 
+[toxic_comments](https://github.com/Olsh23/toxic_comments) | Определить токсичные комментарии. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. | nltk, scipy, re, pandas, matplotlib, sklearn
 [forecasting_taxi_orders](https://github.com/Olsh23/forecasting_taxi_orders) | Прогнозирование заказов такси (временные ряды). Нужно спрогнозировать количество заказов такси на следующий час. | statsmodels, pandas, matplotlib, sklearn, lightgbm
 [traffic_accident_risk_assessment](https://github.com/Olsh23/traffic_accident_risk_assessment) | Оценка риска ДТП. Нужно создать систему, которая могла бы оценить риск ДТП по выбранному маршруту движения. | sqlalchemy, catboost, pandas, matplotlib, sklearn
 [cost_determination_cars](https://github.com/Olsh23/cost_determination_cars) | Определение стоимости автомобилей. Нужно построить модель для определения стоимости. | LGBMRegressor, pandas, matplotlib, sklearn
