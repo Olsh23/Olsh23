@@ -4,6 +4,7 @@
 
 Название | Описание | Инструменты 
 --- | --- | --- 
+[traffic_accident_risk_assessment](https://github.com/Olsh23/traffic_accident_risk_assessment) | Оценка риска ДТП. Нужно создать систему, которая могла бы оценить риск ДТП по выбранному маршруту движения. | sqlalchemy, catboost, pandas, matplotlib, sklearn
 [cost_determination_cars](https://github.com/Olsh23/cost_determination_cars) | Определение стоимости автомобилей. Нужно построить модель для определения стоимости. | LGBMRegressor, pandas, matplotlib, sklearn
 [forecasting_customer_churn_hotel](https://github.com/Olsh23/forecasting_customer_churn_hotel) | Прогнозирование оттока клиентов в сети отелей. Нужно разработать систему, которая предсказывает отказ от брони. | бизнес-метрики, phik, pandas, matplotlib, sklearn
 [choice_locations_borehole](https://github.com/Olsh23/choice_locations_borehole) | Выбор локации для скважины. Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализировать возможную прибыль и риски техникой *Bootstrap*. | метод повторной выборки, бизнес аналитика, pandas, matplotlib, sklearn
